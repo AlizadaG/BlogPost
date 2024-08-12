@@ -39,6 +39,9 @@
                         <th>
                             @Html.DisplayNameFor(model => model.Category)
                         </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.PostPopularTags)
+                        </th>
                         <th></th>
                     </tr>
                 </thead>
@@ -61,9 +64,20 @@
                                 @Html.DisplayFor(modelItem => item.Category.Title)
                             </td>
                             <td>
+                                @if (item.PostPopularTags == null)
+                                {
+                                    <text>No Tags</text>
+                                }
+                                else
+                                {
+                                    <text>@Html.Raw(string.Join(" / ", item.PostPopularTags.Select(t => $"<span class='badge   bg-info p-2 text-white'>{t.PopularTag.Title}</span>")))</text>
+                                }
+                            </td>
+                            <td>
                                 <a asp-action="Edit" asp-route-id="@item.Id"><button btn-action="edit"></button></a>
                                 <a asp-action="Details" asp-route-id="@item.Id"><button btn-action="details"></button></a>
                                 <a asp-action="Delete" asp-route-id="@item.Id"><button btn-action="delete"></button></a>
+                                <a asp-action="Upload" asp-route-id="@item.Id"><button btn-action="upload"></button></a>
                             </td>
                         </tr>
                     }

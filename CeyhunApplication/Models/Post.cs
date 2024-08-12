@@ -1,4 +1,5 @@
-﻿namespace CeyhunApplication.Models;
+﻿using System.ComponentModel;
+namespace CeyhunApplication.Models;
 
 public class Post : BaseEntity
 {
@@ -6,7 +7,7 @@ public class Post : BaseEntity
     public string Content { get; set; } = null!;
     public string? ImageUrl { get; set; }
     public DateTime PublishDate { get; set; }
-
+    [DisplayName("Category Name")]
     public int CategoryId { get; set; }
     public Category? Category { get; set; }
 

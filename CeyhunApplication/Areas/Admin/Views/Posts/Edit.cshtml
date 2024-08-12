@@ -11,14 +11,21 @@
             <form asp-action="Edit">
                 <div asp-validation-summary="ModelOnly" class="text-danger"></div>
                 <div class="form-group">
+                    <label asp-for="PostPopularTags" class="control-label"></label>
+                    <select asp-for="PostPopularTags" class="form-control" asp-items="ViewBag.PostPopularTags">
+                        <option value=""></option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CategoryId" class="control-label"></label>
+                    <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId">
+                        <option value=""></option>
+                    </select>
+                </div>
+                <div class="form-group">
                     <label asp-for="Title" class="control-label"></label>
                     <input asp-for="Title" class="form-control" />
                     <span asp-validation-for="Title" class="text-danger"></span>
-                </div>
-                <div class="form-group">
-                    <label asp-for="Content" class="control-label"></label>
-                    <input asp-for="Content" class="form-control" />
-                    <span asp-validation-for="Content" class="text-danger"></span>
                 </div>
                 <div class="form-group">
                     <label asp-for="ImageUrl" class="control-label"></label>
@@ -31,9 +38,9 @@
                     <span asp-validation-for="PublishDate" class="text-danger"></span>
                 </div>
                 <div class="form-group">
-                    <label asp-for="CategoryId" class="control-label"></label>
-                    <select asp-for="CategoryId" class="form-control" asp-items="ViewBag.CategoryId"></select>
-                    <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    <label asp-for="Content" class="control-label"></label>
+                    <textarea cols="5" rows="5" asp-for="Content" class="form-control"></textarea>
+                    <span asp-validation-for="Content" class="text-danger"></span>
                 </div>
                 <input type="hidden" asp-for="Id" />
                 <div class="form-group">
@@ -47,3 +54,25 @@
         <a asp-action="Index"><button btn-action="list"></button></a>
     </div>
 </div>
+@section css {
+    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+}
+@section js {
+    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#CategoryId').select2({
+                placeholder:"Select a category",
+                allowClear: true
+            });
+            $('#PostPopularTags').select2({
+                placeholder: "Select popular tags",
+                allowClear: true,
+                multiple: true
+            });
+
+            var selectedTags = @Html.Raw(Json.Serialize(Model.PostPopularTags.Select(t => t.PopularTagId).ToList()));
+            $('#PostPopularTags').val(selectedTags).trigger('change');
+        });
+    </script>
+}

@@ -14,6 +14,7 @@ public class ApplicationDbContext : DbContext
     public virtual DbSet<Post> Posts { get; set; } = default!;
     public virtual DbSet<Category> Categories { get; set; } = default!;
     public virtual DbSet<PopularTag> PopularTags { get; set; } = default!;
+    public virtual DbSet<PopularTagPost> PopularTagPost { get; set; } = default!;
 
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

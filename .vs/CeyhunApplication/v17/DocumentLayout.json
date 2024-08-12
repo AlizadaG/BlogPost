@@ -3,44 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CeyhunApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\posts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\posts\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\posts\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\posts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\populartags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\populartags\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\posts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\populartags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\populartags\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\posts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\populartags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\populartags\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\posts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,132 +54,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:38:10.249Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABFAAAAAAAAAA==",
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Upload.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Upload.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Upload.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:36:39.654Z",
+              "WhenOpened": "2024-08-12T08:32:49.782Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Create.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Create.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:36:34.789Z",
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAiwNgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:14:47.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CeyhunApplication\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:13:42.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:36:25.613Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:36:05.944Z",
+              "WhenOpened": "2024-08-12T07:47:08.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Delete.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADwAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:36:04.371Z",
+              "WhenOpened": "2024-08-12T07:46:59.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAE8AAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:36:01.794Z",
+              "WhenOpened": "2024-08-12T07:06:13.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Details.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Details.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Posts\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABFAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAIIAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:23:28.118Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Details.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Details.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\PopularTags\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:23:26.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
-              "RelativeDocumentMoniker": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
-              "RelativeToolTip": "CeyhunApplication\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-11T23:23:25.322Z",
+              "WhenOpened": "2024-08-12T05:21:39.244Z",
               "EditorCaption": ""
             }
           ]

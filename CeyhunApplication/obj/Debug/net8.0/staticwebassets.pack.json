@@ -7817,6 +7817,10 @@
       "PackagePath": "staticwebassets\\images\\logo@2x.png"
     },
     {
+      "Id": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\wwwroot\\images\\mario.png",
+      "PackagePath": "staticwebassets\\images\\mario.png"
+    },
+    {
       "Id": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\wwwroot\\images\\upload\\about-author-bg-image.jpg",
       "PackagePath": "staticwebassets\\images\\upload\\about-author-bg-image.jpg"
     },

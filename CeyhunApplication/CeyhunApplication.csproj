@@ -79,6 +79,7 @@
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Shabnam\Data\" />
     <Folder Include="Areas\Shabnam\Models\" />
+    <Folder Include="wwwroot\upload\" />
   </ItemGroup>
 
   <ItemGroup>

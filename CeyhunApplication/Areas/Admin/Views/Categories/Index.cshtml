@@ -20,7 +20,7 @@
             <p>
                 <a asp-action="Create"><button btn-action="create"></button></a>
             </p>
-            <table class="table">
+            <table class="table table-hover" id="dataTable">
                 <thead>
                     <tr>
                         <th>
@@ -42,15 +42,13 @@
                             <td>
                                 @Html.DisplayFor(modelItem => item.ParentCategory.Title)
                             </td>
-                            @* <td td-select area="" controller="">
-                               
-                            </td> *@
-                            <td>
+                            <td td-select area="admin" controller="categories" item-id="@item.Id"> </td>
+                            @* <td>
                                 <a asp-action="Edit" asp-route-id="@item.Id"><button btn-action="edit"></button></a>
                                 <a asp-action="Details" asp-route-id="@item.Id"><button btn-action="details"></button></a>
                                 <a asp-action="Delete" asp-route-id="@item.Id"><button btn-action="delete"></button></a>
 
-                            </td>
+                            </td> *@
                         </tr>
                     }
                 </tbody>
@@ -58,3 +56,15 @@
         </div>
     </div>
 </div>
+@section css{
+    <!-- Custom styles for this page -->
+    <link href="~/admin/vendor/datatables/dataTables.bootstrap4.min.css" rel="stylesheet">
+}
+@section js{
+    <!-- Page level plugins -->
+    <script src="~/admin/vendor/datatables/jquery.dataTables.min.js"></script>
+    <script src="~/admin/vendor/datatables/dataTables.bootstrap4.min.js"></script>
+
+    <!-- Page level custom scripts -->
+    <script src="~/admin/js/demo/datatables-demo.js"></script>
+}

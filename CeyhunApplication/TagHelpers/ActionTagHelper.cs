@@ -48,23 +48,31 @@ public class ActionTagHelper : TagHelper
 [HtmlTargetElement("td", Attributes = "td-select")]
 public class DropDownActionTagHelper : TagHelper
 {
+    public string Area { get; set; }
+    public string Controller { get; set; }
+    public string ItemId { get; set; }
 
     public override void Process(TagHelperContext context, TagHelperOutput output)
     {
-        output.Content.SetHtmlContent(@"
+        // Construct URLs for the actions
+        var deleteUrl = $"/{Area}/{Controller}/Delete/{ItemId}";
+        var editUrl = $"/{Area}/{Controller}/Edit/{ItemId}";
+        var detailsUrl = $"/{Area}/{Controller}/Details/{ItemId}";
+
+        // Generate the HTML content with dynamic URLs
+        output.Content.SetHtmlContent($@"
             <div class=""dropdown"">
-              <button class=""btn btn-light btn-sm dropdown-toggle"" type=""button"" id=""dropdownMenuButton1"" data-bs-toggle=""dropdown"" aria-expanded=""false"">
-               <i class='fas fa-plus'> </i>
+              <button class=""btn btn-sm dropdown-toggle"" type=""button"" id=""dropdownMenuButton1"" data-bs-toggle=""dropdown"" aria-expanded=""false"">
+                <i class=""fas fa-cog""></i> 
               </button>
               <ul class=""dropdown-menu"" aria-labelledby=""dropdownMenuButton1"">
-                <li><a class=""dropdown-item"" href=""#"">Action</a></li>
-                <li><a class=""dropdown-item"" href=""#"">Another action</a></li>
-                <li><a class=""dropdown-item"" href=""#"">Something else here</a></li>
+                <li><a class=""dropdown-item"" href=""{deleteUrl}""><i class='fas fa-trash text-danger'></i> &nbsp; Delete</a></li>
+                <li><a class=""dropdown-item"" href=""{editUrl}""><i class='fas fa-pen text-warning'></i> &nbsp; Edit</a></li>
+                <li><a class=""dropdown-item"" href=""{detailsUrl}""><i class='fas fa-search text-info'></i> &nbsp; Details</a></li>
               </ul>
             </div> 
-");
+        ");
     }
-
 }
 /*
         <button btn-type="delete"></button>

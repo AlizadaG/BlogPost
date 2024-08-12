@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5RGhCCSdH9AGXWC8bBQQauhFmnYCM8H7SCqeZxwkTIY=",
+  "Hash": "5yQNnWO2sBxosAQ2cXHpoON23Jw0nchjrRpPpAJBoJ8=",
   "Source": "CeyhunApplication",
   "BasePath": "_content/CeyhunApplication",
   "Mode": "Default",
@@ -37160,6 +37160,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logo@2x.png"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\wwwroot\\images\\mario.png",
+      "SourceId": "CeyhunApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\wwwroot\\",
+      "BasePath": "_content/CeyhunApplication",
+      "RelativePath": "images/mario.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mario.png"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\wwwroot\\images\\upload\\about-author-bg-image.jpg",
