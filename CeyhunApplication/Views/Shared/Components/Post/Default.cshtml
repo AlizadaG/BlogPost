@@ -1,0 +1,20 @@
+﻿@model IEnumerable<Post>
+<div class="widget-detail">
+    @foreach (var post in Model)
+    {
+        <div class="recent-wrap">
+            <div class="recent-post-thumb">
+                <a href="#">
+                    <figure>
+                        <div class="overlay-hover"></div>
+                        <img src="@post.ImageUrl" alt="recent post" />
+                    </figure>
+                </a>
+            </div>
+            <div class="recent-post-detail">
+                <h4>@post.Title</h4>
+                <a href="#">Read more</a>
+            </div>
+        </div>
+    }
+</div>

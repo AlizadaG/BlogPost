@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\CeyhunApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\views\\shared\\components\\post\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\shared\\components\\post\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\views\\shared\\components\\populartag\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\shared\\components\\populartag\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\viewcomponents\\postviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\viewcomponents\\postviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\viewcomponents\\populartagviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\viewcomponents\\populartagviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|c:\\users\\user\\desktop\\ceyhunapplication\\ceyhunapplication\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{025B217C-C606-4279-8D9F-BC07F4F72575}|CeyhunApplication\\CeyhunApplication.csproj|solutionrelative:ceyhunapplication\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Models\\Post.cs",
+              "RelativeToolTip": "CeyhunApplication\\Models\\Post.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:45:07.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Shared\\Components\\PopularTag\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:43:33.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Shared\\Components\\Post\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:43:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CeyhunApplication\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADQCAAAAAAAAAAAAAEgCAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-11T22:33:34.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\ViewComponents\\CategoryViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeToolTip": "CeyhunApplication\\ViewComponents\\CategoryViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:28:20.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "RelativeToolTip": "CeyhunApplication\\ViewComponents\\PostViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:26:53.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PopularTagViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "RelativeDocumentMoniker": "CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "RelativeToolTip": "CeyhunApplication\\ViewComponents\\PopularTagViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T22:26:43.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

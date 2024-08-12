@@ -1,0 +1,60 @@
+﻿@model IEnumerable<CeyhunApplication.Models.Category>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+        <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm">
+            <i class="fas fa-download fa-sm text-white-50"></i> Generate Report
+        </a>
+    </div>
+
+    <!-- Content Row -->
+    <div class="row">
+        <div class="col">
+            <p>
+                <a asp-action="Create"><button btn-action="create"></button></a>
+            </p>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>
+                            @Html.DisplayNameFor(model => model.Title)
+                        </th>
+                        <th>
+                            @Html.DisplayNameFor(model => model.ParentCategory)
+                        </th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.Title)
+                            </td>
+                            <td>
+                                @Html.DisplayFor(modelItem => item.ParentCategory.Title)
+                            </td>
+                            @* <td td-select area="" controller="">
+                               
+                            </td> *@
+                            <td>
+                                <a asp-action="Edit" asp-route-id="@item.Id"><button btn-action="edit"></button></a>
+                                <a asp-action="Details" asp-route-id="@item.Id"><button btn-action="details"></button></a>
+                                <a asp-action="Delete" asp-route-id="@item.Id"><button btn-action="delete"></button></a>
+
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
