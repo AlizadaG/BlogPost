@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj": {}
+    "C:\\Users\\User\\Desktop\\BlogPost\\CeyhunApplication\\CeyhunApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj": {
+    "C:\\Users\\User\\Desktop\\BlogPost\\CeyhunApplication\\CeyhunApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\BlogPost\\CeyhunApplication\\CeyhunApplication.csproj",
         "projectName": "CeyhunApplication",
-        "projectPath": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\CeyhunApplication.csproj",
+        "projectPath": "C:\\Users\\User\\Desktop\\BlogPost\\CeyhunApplication\\CeyhunApplication.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\CeyhunApplication\\CeyhunApplication\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\BlogPost\\CeyhunApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,6 +60,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.3, )"
+            },
+            "Sentry.AspNetCore": {
+              "target": "Package",
+              "version": "[4.10.0, )"
+            },
+            "Sentry.Profiling": {
+              "target": "Package",
+              "version": "[4.10.0, )"
             }
           },
           "imports": [
