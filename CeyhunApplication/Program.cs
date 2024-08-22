@@ -3,11 +3,12 @@ using CeyhunApplication.Abstractions.Services;
 using CeyhunApplication.Concretes.Repositories;
 using CeyhunApplication.Concretes.Services;
 using CeyhunApplication.Data;
+using CeyhunApplication.Helpers;
 using Microsoft.EntityFrameworkCore;
+using Sentry.Extensibility;
 using Sentry.Profiling;
 
 var builder = WebApplication.CreateBuilder(args);
-
 
 builder.WebHost.UseSentry(o =>
 {
@@ -20,6 +21,7 @@ builder.WebHost.UseSentry(o =>
     ));
 });
 
+builder.Services.AddSingleton<ISentryEventProcessor, SentryEventProcessor>();
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
 
@@ -49,6 +51,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.UseSentryTracing();
+
 app.UseEndpoints(endpoints =>
 {
 
